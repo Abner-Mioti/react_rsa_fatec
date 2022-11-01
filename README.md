@@ -11,3 +11,11 @@ Projeto desenvolvido durante o curso de Segurança da informação (Fatec).
 ## Para rodar 
 
 - npm start
+
+## Equipe
+
+- Abner Mioti;
+- Caio Farias;
+- Marcos Vinicius;
+- Vitoria Rodrigues;
+- Yuri Sanches.
